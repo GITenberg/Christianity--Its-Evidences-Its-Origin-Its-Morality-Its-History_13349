@@ -1,0 +1,31 @@
+_repo: Christianity--Its-Evidences-Its-Origin-Its-Morality-Its-History_13349
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Besant, Annie
+    aliases:
+    - Wood, Annie
+    - Besant, Annie Wood
+    birthdate: 1847
+    deathdate: 1933
+    gutenberg_agent_id: '1425'
+    url: http://www.gutenberg.org/2009/agents/1425
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Besant
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13349'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Freethinker's Text Book, Part II.
+subjects:
+- !lcsh 'Christianity -- Controversial literature'
+- !lcc 'BL'
+title: 'Christianity: Its Evidences, Its Origin, Its Morality, Its History'
+url: http://www.gutenberg.org/ebooks/13349
